@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal\\myprojects\\pluginmaker_test\\plugins\\lz_pso_checker\\source\\lz_pso_checker\\private\\lz_pso_checker.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal\\myprojects\\pluginmaker_test\\intermediate\\build\\win64\\x64\\pluginmaker_testeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unreal\\myprojects\\pluginmaker_test\\plugins\\lz_pso_checker\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\lz_pso_checker\\definitions.lz_pso_checker.h",
+            "d:\\unreal\\myprojects\\pluginmaker_test\\plugins\\lz_pso_checker\\source\\lz_pso_checker\\public\\lz_pso_checker.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-LZ_PSO_Checker.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal\MyProjects\PluginMaker_test\Intermediate\Build\Win64\x64\PluginMaker_testEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"D:\Unreal\MyProjects\PluginMaker_test\Plugins\LZ_PSO_Checker\Intermediate\Build\Win64\x64\UnrealEditor\Development\LZ_PSO_Checker\Module.LZ_PSO_Checker.cpp.obj"
+"D:\Unreal\MyProjects\PluginMaker_test\Plugins\LZ_PSO_Checker\Intermediate\Build\Win64\x64\UnrealEditor\Development\LZ_PSO_Checker\LZ_PSO_Checker.cpp.obj"
+"D:\Unreal\MyProjects\PluginMaker_test\Plugins\LZ_PSO_Checker\Intermediate\Build\Win64\x64\UnrealEditor\Development\LZ_PSO_Checker\LZ_PSO_CheckerBPLibrary.cpp.obj"
+"D:\Unreal\MyProjects\PluginMaker_test\Plugins\LZ_PSO_Checker\Intermediate\Build\Win64\x64\UnrealEditor\Development\LZ_PSO_Checker\Default.rc2.res"
+/OUT:"D:\Unreal\MyProjects\PluginMaker_test\Plugins\LZ_PSO_Checker\Intermediate\Build\Win64\x64\UnrealEditor\Development\LZ_PSO_Checker\UnrealEditor-LZ_PSO_Checker.lib"

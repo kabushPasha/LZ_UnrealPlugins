@@ -1,0 +1,12 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.LZ_PSO_Checker.cpp.obj": [
+			"LZ_PSO_Checker.init.gen.cpp.obj",
+			"LZ_PSO_CheckerBPLibrary.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"LZ_PSO_Checker.cpp.obj",
+			"LZ_PSO_CheckerBPLibrary.cpp.obj"
+		]
+	}
+}
