@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "LZ_PSO_Checker",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "Pasha",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.5.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "LZ_PSO_Checker",
+			"Type": "Runtime",
+			"LoadingPhase": "PreLoadingScreen"
+		}
+	]
+}
