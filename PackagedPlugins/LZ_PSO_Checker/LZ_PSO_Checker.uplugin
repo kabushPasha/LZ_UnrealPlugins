@@ -13,6 +13,7 @@
 	"EngineVersion": "5.5.0",
 	"CanContainContent": true,
 	"Installed": true,
+	"EnabledByDefault" : false,
 	"Modules": [
 		{
 			"Name": "LZ_PSO_Checker",
